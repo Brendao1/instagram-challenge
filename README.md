@@ -1,5 +1,6 @@
-[![Build Status](https://travis-ci.org/Brendao1/instagram-challenge.svg?branch=master)](https://travis-ci.org/Brendao1/instagram-challenge)
+[![Build Status](https://travis-ci.org/Brendao1/instagram-challenge.svg?branch=master)](https://travis-ci.org/Brendao1/instagram-challenge) 
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/6d83b748c43fabdb5497/maintainability)](https://codeclimate.com/github/Brendao1/instagram-challenge/maintainability)
 
 # How to run the application
 
